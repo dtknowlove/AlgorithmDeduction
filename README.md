@@ -1,0 +1,2 @@
+# AlgorithmDeduction
+Algorithm deduction demo.
